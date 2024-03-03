@@ -1,0 +1,14 @@
+﻿  main.cpp
+D:\3rd_year\GP\Project_GP\Project_GP\main.cpp(195,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\3rd_year\GP\Project_GP\Project_GP\main.cpp(196,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\3rd_year\GP\Project_GP\Project_GP\main.cpp(199,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\3rd_year\GP\Project_GP\Project_GP\main.cpp(200,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\3rd_year\GP\Project_GP\Project_GP\main.cpp(202,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\3rd_year\GP\Project_GP\Project_GP\main.cpp(203,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\3rd_year\GP\Project_GP\Project_GP\main.cpp(500,20): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  Generating code
+  7 of 1817 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    15 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Project_GP.vcxproj -> D:\3rd_year\GP\Project_GP\x64\Release\Project_GP.exe
